@@ -10,7 +10,8 @@ Projecte de visualització de dades sobre la relació entre vendes, valoracions
 
 ## Visualisation
 The interactive visualisation is available at:
-[👉 https://public.flourish.studio/visualisation/XXXXX/](https://public.flourish.studio/story/3532728/)
+https://public.flourish.studio/story/3532728/
+
 
 ## Large datasets
 Video Game Sales
